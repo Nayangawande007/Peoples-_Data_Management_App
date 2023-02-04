@@ -1,5 +1,6 @@
 # Peoples_Data_Management_App
 As it's name this web app is used to manage data of peoples'
+simply we can add,delete,update data of peoples with the help of this app 
 Technologies used =>
 1)NodeJs
 2)ExpressJs
